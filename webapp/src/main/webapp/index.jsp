@@ -12,6 +12,9 @@
     <input type="aadhar" placeholder="Aadhar" name="aadhar" id="aadhar" required>
     <br>
 
+   <label for="pancard"><b>PanCard</b></label>
+    <input type="pancard" placeholder="PanCard" name="pancard" id="pancard" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
