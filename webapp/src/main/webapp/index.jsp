@@ -44,8 +44,8 @@
     <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
     <br>
 
-    <label for="son in law"><b>Son in Law  Name</b></label>
-    <input type="text" placeholder="Son in Law Name" name="son in law" id="son in law" required>
+    <label for="licence"><b>Licence</b></label>
+    <input type="text" placeholder="Licence" name="licence" id="licence" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -63,4 +63,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</frm>
+</form>
+
