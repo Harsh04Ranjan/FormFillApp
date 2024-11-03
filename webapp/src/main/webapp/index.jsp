@@ -19,7 +19,7 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-    
+
     <label for="father"><b>Father</b></label>
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
@@ -30,10 +30,6 @@
 
     <label for="sister"><b>Sister Name</b></label>
     <input type="text" placeholder="sister Name" name="sister" id="sister" required>
-    <br>
-    
-    <label for="spouse"><b>Spouse Name</b></label>
-    <input type="text" placeholder="spouse Name" name="spouse" id="spouse" required>
     <br>
 
     <label for="son"><b>Son Name</b></label>
