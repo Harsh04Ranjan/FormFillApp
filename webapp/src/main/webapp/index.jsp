@@ -44,6 +44,10 @@
     <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
     <br>
 
+    <label for="son in law"><b>Son in Law  Name</b></label>
+    <input type="text" placeholder="Son in Law Name" name="son in law" id="son in law" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
@@ -59,4 +63,4 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</form>
+</frm>
