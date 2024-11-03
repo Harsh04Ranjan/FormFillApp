@@ -40,6 +40,10 @@
     <input type="text" placeholder="Son Name" name="son" id="son" required>
     <br>
 
+    <label for="daughter"><b>Daughter Name</b></label>
+    <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
